@@ -1,3 +1,3 @@
-# project
-schoolproject
-A school website with in-built quiz application.
+Readington project
+Readingtonschoolproject
+Readington school website with in-built quiz application.
